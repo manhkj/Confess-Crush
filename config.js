@@ -1,20 +1,20 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
+    titleWeb: " Gửi con lợn của a ",
+    introTitle: 'Đặng Thị Ngọc Mai',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: 'Hôm nay ngày 20/10 a có đôi lời nhắn gửi em',
+    desc: ' Chúc em ngày 20/10 vui vẻ bên gia đình và bên anh ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    question: 'Trên thế giới hơn 7 tỉ người nhưng a chỉ yêu em <3',
+    btnReply: 'Gửi cho Minh Thế <3',
+    reply: 'Vì anh đẹp trai  <3',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều 😘😘',
+    messDesc: 'Anh yêu em . Nhắn tin với a nhé Baby',
+    btnAccept: 'Oki anh yêu <3',
+    messLink: 'https://m.me/minhthe.bui.161' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
