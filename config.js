@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi tới con lợn của a",
-    introTitle: 'Đặng Thị Ngọc Mai',
+    introTitle: 'Đặng Ngọc Mai',
     introDesc: `Phải chăng  em đã yêu anh
     từ cái nhìn đầu tiên
     phải chăng em là do ông trời gửi đến bên a
