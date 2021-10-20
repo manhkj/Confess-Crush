@@ -1,9 +1,9 @@
 const CONFIG = {
-    titleWeb: "Gửi tới người con gái a yêu",
-    introTitle: 'Quách Thị Ngọc Nhi',
-    introDesc: `Em bảo a rằng đến 1000day
-    Thì em sẽ cho a thịt em :3
-    Nay đã ngày thứ 893 rùi
+    titleWeb: "Gửi tới con lợn của a",
+    introTitle: 'Đặng Thị Ngọc Mai',
+    introDesc: `Phải chăng  em đã yêu anh
+    từ cái nhìn đầu tiên
+    phải chăng em là do ông trời gửi đến bên a
     Đằng sau chữ yêu đây là thương anh sẽ đợi em`,
     btnIntro: '^^O^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
@@ -14,7 +14,7 @@ const CONFIG = {
     btnReply: 'Gửi cho anh <3',
     reply: 'Em đồng ý làm vợ của a',
     mess: 'Anh biết mà. Yêu vợ nhìu 😘😘',
-    messDesc: '893day nữa anh thịt em nhé baby.',
+    messDesc: 'Chúc em ngày 20/10 vui vẻ bên gia đình và bên a.',
     btnAccept: 'Okii lun <3 Yêu anh',
-    messLink: 'https://m.me/callmeisshine' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://m.me/buiminh.the.161' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
