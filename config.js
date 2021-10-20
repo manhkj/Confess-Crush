@@ -15,6 +15,6 @@ const CONFIG = {
     reply: 'Em đồng ý làm vợ của a',
     mess: 'Anh biết mà. Yêu vợ nhìu 😘😘',
     messDesc: '893day nữa anh thịt em nhé baby.',
-    btnAccept: 'Oki lun <3',
+    btnAccept: 'Okii lun <3 Yêu anh',
     messLink: 'https://m.me/callmeisshine' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
